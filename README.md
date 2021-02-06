@@ -13,7 +13,7 @@ This repo is my first homework for my Columbia Bootcamp. I completed the followi
 * HTML
 * CSS
 
-* Link to Deloyed Site
+## Link to Deloyed Site
 https://byung90.github.io/columbia-week-1-homework/
 
 ## License
